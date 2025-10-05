@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-05T21:49:22.475Z",
-    "modified": "2025-10-05T21:49:22.475Z",
+    "created": "2025-10-05T21:49:28.474Z",
+    "modified": "2025-10-05T21:49:28.474Z",
     "title": "Auguste Herbin",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -299,7 +299,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -383,7 +383,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -420,7 +420,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -457,7 +457,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -494,7 +494,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -539,7 +539,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -576,7 +576,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -610,7 +610,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -647,7 +647,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -684,7 +684,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -721,7 +721,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -758,7 +758,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -801,7 +801,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -838,7 +838,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -850,9 +850,9 @@
         ],
         "@id": "prototype:semantic-node-1759698717518-uadpew2rj",
         "rdfs:label": "Auguste Herbin",
-        "rdfs:comment": "",
+        "rdfs:comment": "Auguste Herbin was a French painter of modern art. He is best known for his Cubist and abstract paintings consisting of colorful geometric figures. He co-founded the groups Abstraction-Création and Salon des Réalités Nouvelles, which promoted non-figurative abstract art.",
         "name": "Auguste Herbin",
-        "description": "",
+        "description": "Auguste Herbin was a French painter of modern art. He is best known for his Cubist and abstract paintings consisting of colorful geometric figures. He co-founded the groups Abstraction-Création and Salon des Réalités Nouvelles, which promoted non-figurative abstract art.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/Auguste_Herbin",
           "http://dbpedia.org/resource/Auguste_Herbin",
@@ -885,7 +885,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -922,7 +922,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -961,7 +961,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1000,7 +1000,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1048,7 +1048,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1085,7 +1085,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1281,10 +1281,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49165.5,
-          "y": -49521
+          "x": -132724.1591688136,
+          "y": -131913.8801925198
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 2.659424715259009,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -1636,10 +1636,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -49165.5,
-        "y": -49521
+        "x": -132724.1591688136,
+        "y": -131913.8801925198
       },
-      "redstring:zoomLevel": 1,
+      "redstring:zoomLevel": 2.659424715259009,
       "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
@@ -1679,7 +1679,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1721,7 +1721,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1771,7 +1771,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1805,7 +1805,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1842,7 +1842,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1879,7 +1879,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1916,7 +1916,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1961,7 +1961,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1998,7 +1998,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2032,7 +2032,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2069,7 +2069,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2106,7 +2106,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2143,7 +2143,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2180,7 +2180,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2223,7 +2223,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2260,7 +2260,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2272,9 +2272,9 @@
       ],
       "@id": "prototype:semantic-node-1759698717518-uadpew2rj",
       "rdfs:label": "Auguste Herbin",
-      "rdfs:comment": "",
+      "rdfs:comment": "Auguste Herbin was a French painter of modern art. He is best known for his Cubist and abstract paintings consisting of colorful geometric figures. He co-founded the groups Abstraction-Création and Salon des Réalités Nouvelles, which promoted non-figurative abstract art.",
       "name": "Auguste Herbin",
-      "description": "",
+      "description": "Auguste Herbin was a French painter of modern art. He is best known for his Cubist and abstract paintings consisting of colorful geometric figures. He co-founded the groups Abstraction-Création and Salon des Réalités Nouvelles, which promoted non-figurative abstract art.",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/Auguste_Herbin",
         "http://dbpedia.org/resource/Auguste_Herbin",
@@ -2307,7 +2307,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2344,7 +2344,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2383,7 +2383,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2422,7 +2422,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2470,7 +2470,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -2507,7 +2507,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+        "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -2694,13 +2694,13 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
-        "isActive": false
+        "isActive": true
       },
       {
         "type": "node",
         "nodeId": "base-connection-prototype",
         "title": "Connection",
-        "isActive": true
+        "isActive": false
       },
       {
         "type": "node",
@@ -2942,10 +2942,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49165.5,
-          "y": -49521
+          "x": -132724.1591688136,
+          "y": -131913.8801925198
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 2.659424715259009,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -2985,7 +2985,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3027,7 +3027,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3077,7 +3077,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3111,7 +3111,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3148,7 +3148,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3185,7 +3185,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3222,7 +3222,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3267,7 +3267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3304,7 +3304,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3338,7 +3338,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-05T21:49:22.474Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3375,7 +3375,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3412,7 +3412,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3449,7 +3449,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3486,7 +3486,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3529,7 +3529,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3566,7 +3566,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3578,9 +3578,9 @@
         ],
         "@id": "prototype:semantic-node-1759698717518-uadpew2rj",
         "rdfs:label": "Auguste Herbin",
-        "rdfs:comment": "",
+        "rdfs:comment": "Auguste Herbin was a French painter of modern art. He is best known for his Cubist and abstract paintings consisting of colorful geometric figures. He co-founded the groups Abstraction-Création and Salon des Réalités Nouvelles, which promoted non-figurative abstract art.",
         "name": "Auguste Herbin",
-        "description": "",
+        "description": "Auguste Herbin was a French painter of modern art. He is best known for his Cubist and abstract paintings consisting of colorful geometric figures. He co-founded the groups Abstraction-Création and Salon des Réalités Nouvelles, which promoted non-figurative abstract art.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/Auguste_Herbin",
           "http://dbpedia.org/resource/Auguste_Herbin",
@@ -3613,7 +3613,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3650,7 +3650,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3689,7 +3689,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3728,7 +3728,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3776,7 +3776,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -3813,7 +3813,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-05T21:49:22.475Z"
+          "redstring:lastViewed": "2025-10-05T21:49:28.474Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -4017,7 +4017,7 @@
           "x": 1623.0818272028423,
           "y": -1613.9764831919135
         },
-        "computedAt": 1759700962475,
+        "computedAt": 1759700968474,
         "truncated": false
       }
     },
@@ -4028,7 +4028,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759700962475,
+        "computedAt": 1759700968474,
         "truncated": false
       }
     },
@@ -4039,7 +4039,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759700962475,
+        "computedAt": 1759700968474,
         "truncated": false
       }
     },
@@ -4050,7 +4050,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759700962475,
+        "computedAt": 1759700968474,
         "truncated": false
       }
     }
@@ -4135,7 +4135,7 @@
         }
       ],
       "text": "Graph: Ligma Balls (ddceae7a-0048-4e91-8ec4-588b29c1e7e5)\nNodes (5 total):\n- Ligma Balls [b595a5f5-5cb7-47bc-9a21-902ef264b0d3]\n- dfa [3f5ae5f3-af25-44a5-ab15-0677cf7b1577]\n- Thing [91230552-ee07-44ca-86e9-55ec16919abd]\n- Pot [fff2feba-e278-424b-aa00-ba0e177ae0df]\n- Jesse Pinkman [3493fa82-73fb-4597-b967-029cad52e1b4]\n\nEdges (5 total):\n- Ligma Balls → dfa (Connection)\n- Thing → dfa (Connection)\n- Thing → Ligma Balls (Connection)\n- Pot → Ligma Balls (Connection)\n- Ligma Balls → Jesse Pinkman (Connection)",
-      "computedAt": 1759700962475
+      "computedAt": 1759700968474
     },
     "38ba5fae-03ca-49d8-8b53-fea149b41e36": {
       "id": "38ba5fae-03ca-49d8-8b53-fea149b41e36",
@@ -4149,7 +4149,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Pauly–wissowa (38ba5fae-03ca-49d8-8b53-fea149b41e36)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759700962475
+      "computedAt": 1759700968474
     },
     "e57cdc06-6e09-4e3d-a812-af53d5989c13": {
       "id": "e57cdc06-6e09-4e3d-a812-af53d5989c13",
@@ -4163,7 +4163,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Pauly–wissowa (e57cdc06-6e09-4e3d-a812-af53d5989c13)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759700962475
+      "computedAt": 1759700968474
     },
     "ef1a9162-f633-4d86-adb5-ddb9638504fa": {
       "id": "ef1a9162-f633-4d86-adb5-ddb9638504fa",
@@ -4177,7 +4177,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Auguste Herbin (ef1a9162-f633-4d86-adb5-ddb9638504fa)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759700962475
+      "computedAt": 1759700968474
     }
   }
 }
